@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">NetclanExplorer</string>
+    <string name="Explorer">Explorer</string>
+    <string name="Refine">Refine</string>
+    <string name="name">Hello Shilpa Shetty !!</string>
+    <string name="location">Mumbai</string>
+    <string name="short_description">Hi community! I am open to new connections "😊"</string>
+    <string name="long_description">I am a learner,and gain experience in the technical field.</string>
+    <string name="item1" >Available | Hey Let Us Connect</string>
+    <string name="item2" >Away | Stay Discrete And Watch</string>
+    <string name="item3" >Busy |Do Not Disturb | Will Catch Up Later</string>
+    <string name="item4" >SOS | Emergency! Need Assistance! HELP</string>
+
+</resources>
